@@ -9,19 +9,29 @@ ayodhyakushwaha424@gmail.com
 # Screenshot simple sample
 <img width="1912" height="1049" alt="image" src="https://github.com/user-attachments/assets/e803669c-a5d3-4427-8c8f-749df790ebb0" />
 
-# Clone 
+# Clone the Repository 
 ```
 git clone https://github.com/Ayodhya424/DrawTrack.git
 ```
-# change directory to project
+# Change Directory
 ```
-cd (Name of your Project Folder)
+cd DrawTrack
+```
+# (Optional) Create a Virtual Environment
+This helps avoid dependency conflicts.
+```
+python -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+```
+
+# Install Requirements
+```
+pip install -r requirements.txt
 ```
 
 # Run the program
-After the clone  install requirements and run code as below step: -
 ```
-pip install -r requirements.txt
 python app.py
 ```
 # Project File Diagram
