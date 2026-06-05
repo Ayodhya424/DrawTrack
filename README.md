@@ -7,7 +7,7 @@ This project is currently on hold while pen detection using machine learning is 
 ayodhyakushwaha424@gmail.com
 ```
 # Screenshot simple sample
-//<img width="1912" height="1049" alt="image" src="https://github.com/user-attachments/assets/e803669c-a5d3-4427-8c8f-749df790ebb0" />
+<img width="1912" height="1049" alt="image" src="https://github.com/user-attachments/assets/e803669c-a5d3-4427-8c8f-749df790ebb0" />
 
 # Clone 
 ```
