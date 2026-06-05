@@ -7,5 +7,23 @@ This project is currently on hold while pen detection using machine learning is 
 ayodhyakushwaha424@gmail.com
 ```
 # Screenshot simple sample
-<img width="1912" height="1049" alt="image" src="https://github.com/user-attachments/assets/e803669c-a5d3-4427-8c8f-749df790ebb0" />
+//<img width="1912" height="1049" alt="image" src="https://github.com/user-attachments/assets/e803669c-a5d3-4427-8c8f-749df790ebb0" />
+
+# Clone 
+```
+git clone https://github.com/Ayodhya424/DrawTrack.git
+```
+# change directory to project
+```
+cd (Name of your Project Folder)
+```
+
+# Run the program
+After the clone  install requirements and run code as below step: -
+```
+pip install -r requirements.txt
+python app.py
+```
+# Project File Diagram
+<img width="295" height="284" alt="image" src="https://github.com/user-attachments/assets/7764ca47-dee6-43ed-ae5a-b16c046140a8" />
 
